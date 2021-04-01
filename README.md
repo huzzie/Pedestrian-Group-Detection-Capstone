@@ -1,1 +1,2 @@
-# Capstone_Project
+# Capstone Project
+## Pedestrian Group Detection 
