@@ -14,6 +14,7 @@ Download the [Yolo Model](https://github.com/theAIGuysCode/yolov4-deepsort) and 
 
 # Object Trajectories
 <img width = '80%' src = 'https://user-images.githubusercontent.com/49483133/117150397-14a5cb00-adf3-11eb-94d1-7de0b8f74342.gif'>
+
 # References
 [Deep Sort](https://github.com/nwojke/deep_sort)
 [Yolo Model](https://github.com/theAIGuysCode/yolov4-deepsort)
