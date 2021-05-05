@@ -2,11 +2,15 @@
 ## Pedestrian Group Detection 
 
 # Abstract
-The edge-computing, a distributed computing system that processes complex computation and data storage closer to the location, is a growing innovation technique in artificial intelligence and IoT (Internet of Things). Using the YOLO on NVIDIA Jetson-Nano, pedestrians in the Washington, DC area are detected, and the algorithm for pedestrian feature detection developed based on OpenCV and YOLO. (YOLOv3 detection is widely used, but tracking group units such as family, friends, or couples still remains challenging tasks.) These analyses will enable city developers to find out business potentials and bring insights into the communities. In the research, the algorithm based on YOLOv3 will detect the existing real-time pedestrian and family units by measuring distance between the detected objects. 
+The edge-computing, a distributed computing system that processes complex computation and brings this computation to the source of the data, is a growing innovation technique in artificial intelligence and IoT (Internet of Things). Using the YOLO on NVIDIA Jetson-Nano, pedestrians in the Washington, DC area are detected, and the methods for pedestrian feature detection proposed based on YOLO and K-means clusters. YOLO model can detect more than 9000 objects with high accuracy score, but group detection remains as a challenging task. This paper will introduce four methods to detect groups, and these analyses will provide insights to city developers to find out business potentials and bring insights into the communities. In the research, the algorithm based on YOLOv4 will detect the existing real-time pedestrian and K-means clustering will be used to measure and evaluate group units.
+
 
 # Keywords
-Object Detection, Motion Detection, CNN, DarkNet, Edge Computing, Deep Learning
+Object Detection, Motion Detection, K-means, DBSCAN, YOLO
+
+# Data Collection
+Download the [Yolo Model](https://github.com/theAIGuysCode/yolov4-deepsort) and use the object_track.py under the folder to transform the pedestrian information into CSV format
 
 # References
 [Deep Sort](https://github.com/nwojke/deep_sort)
-
+[Yolo Model](https://github.com/theAIGuysCode/yolov4-deepsort)
