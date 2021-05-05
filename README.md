@@ -9,7 +9,7 @@ The edge-computing, a distributed computing system that processes complex comput
 Object Detection, Motion Detection, K-means, DBSCAN, YOLO
 
 # Data Collection
-Download the [Yolo Model](https://github.com/theAIGuysCode/yolov4-deepsort) and use the object_track.py under the [codes](https://github.com/huzzie/Capstone_Project/tree/main/codes) folder to transform the pedestrian information into CSV format
+Download the [Yolo Model](https://github.com/theAIGuysCode/yolov4-deepsort) and use the object_track.py under the [codes](https://github.com/huzzie/Capstone_Project/tree/main/codes) folder to transform the pedestrian information into CSV format. GPU system is highly recommmended. 
 
 # References
 [Deep Sort](https://github.com/nwojke/deep_sort)
