@@ -13,7 +13,7 @@ Object Detection, Motion Detection, K-means, DBSCAN, YOLO
 Download the [Yolo Model](https://github.com/theAIGuysCode/yolov4-deepsort) and use the object_track.py under the [codes](https://github.com/huzzie/Capstone_Project/tree/main/codes) folder to transform the pedestrian information into CSV format. GPU system is highly recommmended. 
 
 # Object Trajectories
-![my_video](/.video_result/crowd.mp4)
+![my_video](/.video_result/city1.mp4)
 # References
 [Deep Sort](https://github.com/nwojke/deep_sort)
 [Yolo Model](https://github.com/theAIGuysCode/yolov4-deepsort)
