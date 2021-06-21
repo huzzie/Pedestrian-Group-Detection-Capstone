@@ -1,5 +1,5 @@
 # Capstone Project
-## Pedestrian Group Detection 
+## Pedestrian Group Detection Using Yolov4
 [![DOI](https://zenodo.org/badge/353060555.svg)](https://zenodo.org/badge/latestdoi/353060555)
 
 [GitHub.io](https://github.com/huzzie/huzzie.github.io-capstone)
